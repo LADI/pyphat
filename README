@@ -1,0 +1,2 @@
+Python bindings for phat. To make and install type ./configure; make.
+Look at khagan for a idea of how to use it. 
