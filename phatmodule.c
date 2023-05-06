@@ -1,3 +1,4 @@
+#define NO_IMPORT_PYGOBJECT
 #include <pygobject.h>
  
 void phat_register_classes (PyObject *d); 
